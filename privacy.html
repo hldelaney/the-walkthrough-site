@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy — The Walkthrough</title>
+    <meta name="theme-color" content="#0E0F12">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <a href="index.html" class="wordmark" aria-label="The Walkthrough — home">
+            <svg width="20" height="20" viewBox="0 0 22 22" fill="none" aria-hidden="true">
+                <path d="M2 18 L8 6 L11 13 L14 8 L20 18" stroke="#C97B4E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+            </svg>
+            <span class="name">The Walkthrough</span>
+        </a>
+
+        <h1>Privacy Policy</h1>
+        <p><small>Last updated: June 1, 2026</small></p>
+        <p>
+            The Walkthrough is a conversation-practice app for real estate agents.
+            This policy explains exactly what we collect, why, who else touches it, and how to get rid of it.
+            Plain language, no surprises.
+        </p>
+
+        <h2>Data we collect</h2>
+        <ul>
+            <li><strong>Account info:</strong> email address and an account identifier used to sign you in and tie sessions to you. If you subscribe via Apple, Apple handles the payment; we never see your card.</li>
+            <li><strong>Drill content:</strong> the deal details you paste in (listing facts, buyer brief, scenario setup) and the text transcript of your practice conversation. This is what lets the AI persona drill you and what lets the debrief read your performance.</li>
+            <li><strong>Voice input:</strong> when you speak during a drill, your microphone audio is streamed to a transcription model and converted to text. <strong>We do not store voice recordings.</strong> The transcript is what gets used and retained — the raw audio is processed and dropped.</li>
+            <li><strong>Telemetry:</strong> non-personal app analytics (which screens you used, drill durations, error reports) via PostHog and Sentry. This is how we find bugs and figure out which drills agents actually use.</li>
+        </ul>
+
+        <h2>How we use it</h2>
+        <ul>
+            <li>To run the AI persona and produce the debrief at the end of each drill.</li>
+            <li>To improve the product in aggregate — which scenarios get used, which break, which actually help.</li>
+            <li>To respond to support requests when you email us.</li>
+        </ul>
+
+        <h2>What we do not do</h2>
+        <ul>
+            <li>We do not sell your data.</li>
+            <li>We do not store voice recordings of your drills.</li>
+            <li>We do not use your drill content to train third-party AI models.</li>
+            <li>We do not share identifiable drill content with other users — your deals are yours.</li>
+            <li>We do not pull from MLS, RPR, or any brokerage system. You paste in what you want practiced; we don't reach into your tools.</li>
+        </ul>
+
+        <h2>Third-party processors</h2>
+        <p>
+            We use a small set of vendors to run the app. Each only sees the data they need to do their job.
+        </p>
+        <ul>
+            <li><strong>Anthropic</strong> — runs the AI persona and the debrief analysis. Transcript text is sent to Anthropic's API for inference and is not used by Anthropic to train models.</li>
+            <li><strong>OpenAI</strong> — speech-to-text transcription of your voice input during drills. Audio is processed for transcription and not retained for training.</li>
+            <li><strong>Apple App Store</strong> — handles all payment and subscription billing. We never see card data.</li>
+            <li><strong>Railway</strong> — hosting for the backend gateway that brokers requests between the app and the AI providers.</li>
+            <li><strong>PostHog</strong> — product analytics (non-personal usage data).</li>
+            <li><strong>Sentry</strong> — crash and error reporting.</li>
+        </ul>
+
+        <h2>Data retention and deletion</h2>
+        <p>
+            Drill transcripts and account data are retained while your account is active so you can review past sessions.
+            Delete your account from inside the app, or email the address below — we delete your account, drill transcripts,
+            and associated session data within 30 days of receiving the request. Aggregated, non-personal analytics may persist.
+        </p>
+
+        <h2>Your rights</h2>
+        <ul>
+            <li><strong>Access:</strong> request a copy of the drill data tied to your account by emailing us.</li>
+            <li><strong>Deletion:</strong> delete your account in-app or by email; we honor it within 30 days.</li>
+            <li><strong>Correction:</strong> email us if anything about your account record is wrong.</li>
+            <li>Residents of California, the EU, and other jurisdictions with similar regulations have these rights regardless of where The Walkthrough operates from.</li>
+        </ul>
+
+        <h2>Children</h2>
+        <p>The Walkthrough is built for licensed real estate professionals. It is not intended for and not directed at children under 13, and we do not knowingly collect data from them.</p>
+
+        <h2>Changes</h2>
+        <p>If we change this policy in a way that meaningfully affects what we collect or how we use it, we'll update the "Last updated" date above and surface a notice in the app on next launch.</p>
+
+        <h2>Contact</h2>
+        <p>Questions, access requests, or deletion: <a href="mailto:contact@hldelaney.com">contact@hldelaney.com</a></p>
+
+        <div class="footer">
+            <a href="index.html" class="back">← Back to The Walkthrough</a>
+        </div>
+    </div>
+</body>
+</html>
