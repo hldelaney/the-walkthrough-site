@@ -1,0 +1,10 @@
+name = "thewalkthrough"
+compatibility_date = "2024-11-01"
+pages_build_output_dir = "."
+
+# Launch-list subscribers for the /api/subscribe Pages Function (self-hosted, no third party).
+# KV namespace EMAILS-thewalkthrough, created 2026-07-02.
+# Retrieve with:  wrangler kv key list --namespace-id 80b2ef5f48724b15848e397ebfa761e8 --remote
+[[kv_namespaces]]
+binding = "EMAILS"
+id = "80b2ef5f48724b15848e397ebfa761e8"

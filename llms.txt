@@ -1,0 +1,61 @@
+# The Walkthrough
+
+> The Walkthrough is an iOS app where real estate agents practice high-stakes client
+> conversations against an AI client that pushes back, then read a forensic debrief on
+> exactly where they lost the room. It is AI roleplay for real estate agents — a safe
+> place to take the reps that otherwise cost real listings and real commissions.
+
+## What it is
+The Walkthrough turns a high-stakes real estate conversation into a low-risk rehearsal.
+You paste in the deal (a listing, a buyer brief, a seller's last text), and the app builds
+an AI persona around it — a seller defending their Zillow price, a buyer questioning your
+fee, an FSBO who insists they don't need an agent. You have the hard conversation out loud,
+with no commission on the line. After every rep, a forensic debrief shows the exact moment
+your value framing slipped, your commission defense wobbled, or an objection got past you.
+
+## Who it's for
+Licensed real estate agents and aspiring agents — especially new agents preparing for a
+first listing, and anyone who needs to rehearse a listing presentation, an objection, a
+FSBO or expired-listing call, or a negotiation before it's real money. Also sold to teams
+and brokerages as a white-label training rail.
+
+## Core mechanic
+Set the room → run the rep against an AI client that pushes back → read the forensic
+debrief → fix one thing → run it again. Purpose-built scenario rooms include: the listing
+pitch, "your commission is too high," the lowball offer, the FSBO call, the expired listing,
+and the inspection renegotiation.
+
+## Key facts (evidence-based)
+- The top five objections account for 74% of all objections across 300M+ calls (Gong Labs, 2023) — a small, trainable set decides most rooms.
+- Sales forces that rate their training highly win 58% of deals versus 47% for weaker-trained teams (RAIN Group, 2023).
+- Deliberate, feedback-driven practice cut performance errors by 60% versus conventional training (Annals of Surgery, 2021).
+- 49% of the 2022 new-agent cohort failed to close a single deal the following year (Relitix, 2024).
+- Median income: $92,500 for agents with 16+ years versus $8,100 for those with 2 years or less (NAR 2024 Member Profile).
+- Around $21,000 in commission rides on a single median-priced home (Clever Real Estate, 2026).
+Every claim on the site maps to a published source on the research page.
+
+## Pricing
+- Solo (Individual Agent): $9.99 / month — 30 reps and drills a month; seller, buyer, FSBO, and counter-offer personas; forensic debrief on every session; cancel anytime in Apple Account.
+- Brokerages & teams: white-label, custom pricing — contact contact@hldelaney.com.
+The app is iOS-only and launching soon (not yet on the App Store). No ads, no in-app upsells.
+
+## Privacy
+Voice input is transcribed to text and the raw audio is discarded — no voice recordings are
+stored. Drill content is not used to train third-party AI models and is never sold.
+
+## Maker
+Built by H.L. Delaney, the studio behind Rehearsal Room AI.
+
+## Links
+- Home: https://thewalkthrough.ai/
+- Guides and scripts (resources hub): https://thewalkthrough.ai/resources
+- Buyer consultation script: https://thewalkthrough.ai/buyer-consultation-script
+- Real estate cold-calling scripts: https://thewalkthrough.ai/real-estate-cold-calling-scripts
+- Open house follow-up: https://thewalkthrough.ai/open-house-follow-up
+- Price-reduction conversation script: https://thewalkthrough.ai/price-reduction-conversation-script
+- Handling a low appraisal with the seller: https://thewalkthrough.ai/low-appraisal-seller-conversation
+- Research and evidence: https://thewalkthrough.ai/research
+- Support and FAQ: https://thewalkthrough.ai/support
+- Privacy: https://thewalkthrough.ai/privacy
+- Terms: https://thewalkthrough.ai/terms
+- Contact: contact@hldelaney.com
